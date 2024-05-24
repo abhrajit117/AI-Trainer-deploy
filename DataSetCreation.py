@@ -1,5 +1,5 @@
 import pandas as pd
-import cv2
+import cv2 as cv2
 import mediapipe as mp
 import numpy as np
 from sklearn.cluster import KMeans
